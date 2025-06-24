@@ -1,0 +1,10 @@
+Employee ID,Name,Designation,Basic Pay,HRA,DA,Deduction,Net Salary
+1,Satya Sai Kiran Adimulam,CEO,200000.0,20000.0,20000.0,25000.0,215000.0
+2,Tyrion Lannister,HR Manager,130000.0,15000.0,15000.0,20000.0,140000.0
+3,Aarya Stark,Finance Manager,120000.0,15000.0,15000.0,20000.0,130000.0
+4,Daenerys Targaryen,Customer Relationship Manager (CRM),130000.0,15000.0,15000.0,20000.0,140000.0
+5,Shaun Murphy,Head of Operations,140000.0,15000.0,15000.0,20000.0,150000.0
+6,Sheldon Cooper,Developing Head,125000.0,15000.0,15000.0,20000.0,135000.0
+7,Melissa Cooper,Developer,70000.0,10000.0,10000.0,15000.0,75000.0
+8,Sansa Stark,Business Development Head,120000.0,15000.0,15000.0,20000.0,130000.0
+9,Cersei Lannister,Developer,80000.0,10000.0,10000.0,15000.0,85000.0
